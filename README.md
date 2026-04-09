@@ -2,10 +2,10 @@
 
 ### 👤 **Sobre mi** 
 - 🎂 17 anys
-- 🎓 Cicle de Grau Mitjà de Informàtica (SMX) // 2024-actualment
+- 🎓 Cicle de Grau Mitjà de Informàtica (SMX) // 2024-actualment (Escola Pia Mataró)
 - ❤️‍🔥 Passió per la informàtica i programació
 - 🌎 Mataró, Barcelona
-- 💻 Treballant a Develokat
+- 💻 7 mesos treballant a **Develokat** com a **tècnic informàtic**
 
 ### 📓 **Contacte** 
 
