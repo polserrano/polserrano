@@ -47,9 +47,9 @@ altres_interessos: ["cuina", "esports", "viatjar", "música"]
 
 ---
 
-- 👨‍💻 SMR Student focused on Development, Linux, and Networking.
-- 🚀 Future DAM student passionate about backend development and software engineering.
-- 🌱 Currently learning more about servers, system administration, and modern technologies.
+- 👨‍💻 Estudiant de SMX (Sistemes Microinformàtics i Xarxes) centrat en desenvolupament, Linux, xarxes, MVs i moltes coses més!
+- 🚀 Futur estudiant de DAM apassionat pel desenvolupament backend i l’enginyeria del programari.
+- 🌱 Actualment aprenent més sobre servidors, administració de sistemes i tecnologies modernes.
 
 ## 🛠 Tech skills
 
