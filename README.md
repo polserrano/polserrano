@@ -25,7 +25,7 @@
 
 ---
 
-<img align="right" width="305" height="305" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTdvYjI4MjRobzN4cXQwcmhpZDQyeDlkdTl0djQweWUzd3A5dDIxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LPFNd1AJBoYcVUExmE/giphy.gif">
+<img align="right" width="270" height="305" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTdvYjI4MjRobzN4cXQwcmhpZDQyeDlkdTl0djQweWUzd3A5dDIxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LPFNd1AJBoYcVUExmE/giphy.gif">
 
 
 ```yaml
@@ -67,7 +67,6 @@ altres_interessos: ["cuina", "esports", "viatjar", "música"]
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
