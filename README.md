@@ -31,7 +31,7 @@
 ```yaml
 nom: Pol Serrano Aromí
 localitzat_a: Mataró, Barcelona
-treball_actual: Estudiant de SMX (Sistemes Microinformàtics i Xarxes)
+estudis_actuals: Estudiant de SMX (Sistemes Microinformàtics i Xarxes)
 nom_usuari: ["@polserrano", "@zzz"]
 mail: alu.pol.serrano@mataro.epiaedu.cat - aromi.serrano.pol@gmail.com
 educació:
@@ -39,7 +39,7 @@ educació:
   "Fundació Privada GEM - Mataró - ESO",
   "Escola Pia - Mataró - SMX (Sistemes Microinformàtics i Xarxes)"
 ]
-actualment_estudiant: ["Python", "Linux"]
+actualment_estudiant: ["Python", "Linux", "Sistemes", "AI"]
 àrees_d_interès: ["Programació", "Idiomes", "Hardware"]
 habilitats_personals: ["atenció als detalls", "treballador", "gestió del temps"]
 altres_interessos: ["cuina", "esports", "viatjar", "música"]
