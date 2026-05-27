@@ -18,7 +18,6 @@
     src="https://visitor-badge.laobi.icu/badge?page_id=polserrano.polserrano"
     alt="visitors"
   />
-  🥲
 </p>
 
 > <i>“The important thing is not to stop questioning.”</i> – Albert Einstein
