@@ -30,24 +30,25 @@
 ```yaml
 nom: Pol Serrano Aromí
 localitzat_a: Mataró, Barcelona
-estudis_actuals: Estudiant de SMX (Sistemes Microinformàtics i Xarxes)
+estudis_actuals: Estudiant de DAM (Desenvolupament Aplicacions Multiplataforma)
 nom_usuari: ["@polserrano", "@zzz"]
 mail: alu.pol.serrano@mataro.epiaedu.cat - aromi.serrano.pol@gmail.com
 educació:
 [
   "Fundació Privada GEM - Mataró - ESO",
   "Escola Pia - Mataró - SMX (Sistemes Microinformàtics i Xarxes)"
+  "Ecola Pia - Mataró - DAM (Desenvolupament Aplicacions Multiplataforma)"
 ]
-actualment_estudiant: ["Python", "Linux", "Sistemes", "AI"]
-àrees_d_interès: ["Programació", "Idiomes", "Hardware"]
+actualment_estudiant: ["Java", "BBDD", "Sistemes", "IA"]
+àrees_d_interès: ["Programació", "Idiomes", "Hardware", "IA"]
 habilitats_personals: ["atenció als detalls", "treballador", "gestió del temps"]
 altres_interessos: ["cuina", "esports", "viatjar", "música"]
 ```
 
 ---
 
-- 👨‍💻 Estudiant de SMX (Sistemes Microinformàtics i Xarxes) centrat en desenvolupament, Linux, xarxes, MVs i moltes coses més!
-- 🚀 Futur estudiant de DAM apassionat pel desenvolupament backend i l’enginyeria del programari.
+- 👨‍💻 Estudiant de DAM (Desenvolupament Aplicacions Multiplataforma) centrat en desenvolupament, Java, bases de dades, sistemes i molt més!
+- 🚀 Apassionat pel desenvolupament backend i l’enginyeria del programari.
 - 🌱 Actualment aprenent més sobre servidors, administració de sistemes i tecnologies modernes.
 
 ## 🛠 Tech skills
